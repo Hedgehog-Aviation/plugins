@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "badvectors/ATISPlugin",
+    "DllName": "ATISPlugin.dll"
+  },
+  {
+    "Name": "badvectors/DiscordPlugin",
+    "DllName": "DiscordPlugin.Plugin.dll"
+  },
+  {
+    "Name": "badvectors/SimulatorPlugin",
+    "DllName": "SimulatorPlugin.dll"
+  },
+  {
+    "Name": "badvectors/VatpacPlugin",
+    "DllName": "VatpacPlugin.dll"
+  },
+  {
+    "Name": "maxrumsey/TrafficInjector",
+    "DllName": "TrafficInjector.Plugin.dll"
+  },
+  {
+    "Name": "YuKitsune/vMaestro",
+    "DllName": "Maestro.Plugin.dll"
+  },
+  {
+    "Name": "YuKitsune/vatsys-fullscreen-plugin",
+    "DllName": "FullscreenPlugin.dll"
+  },
+  {
+    "Name": "alphadelta332/dti-window",
+    "DllName": "dti-window.dll"
+  },
+  {
+    "Name": "hedgehog-aviation/RemoteVSCSPlugin",
+    "DllName": "RemoteVSCSPlugin.dll"
+  },
+  {
+    "Name": "badvectors/EventsPlugin",
+    "DllName": "EventsPlugin.dll"
+  },
+  {
+    "Name": "vatACARS/vatsys-plugin",
+    "DllName": "vatacars.dll"
+  },
+  {
+    "Name": "maxrumsey/OzStrips",
+    "DllName": "GUI.dll"
+  }
+]
