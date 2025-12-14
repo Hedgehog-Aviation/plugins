@@ -1,50 +1,62 @@
 [
   {
     "Name": "badvectors/ATISPlugin",
-    "DllName": "ATISPlugin.dll"
+    "DllName": "ATISPlugin.dll",
+    "Remove": "false"
   },
   {
     "Name": "badvectors/DiscordPlugin",
-    "DllName": "DiscordPlugin.Plugin.dll"
+    "DllName": "DiscordPlugin.Plugin.dll",
+    "Remove": "false"
   },
   {
     "Name": "badvectors/SimulatorPlugin",
-    "DllName": "SimulatorPlugin.dll"
+    "DllName": "SimulatorPlugin.dll",
+    "Remove": "false"
   },
   {
     "Name": "badvectors/VatpacPlugin",
-    "DllName": "VatpacPlugin.dll"
+    "DllName": "VatpacPlugin.dll",
+    "Remove": "false"
   },
   {
     "Name": "maxrumsey/TrafficInjector",
-    "DllName": "TrafficInjector.Plugin.dll"
+    "DllName": "TrafficInjector.Plugin.dll",
+    "Remove": "false"
   },
   {
     "Name": "YuKitsune/vMaestro",
-    "DllName": "Maestro.Plugin.dll"
+    "DllName": "Maestro.Plugin.dll",
+    "Remove": "false"
   },
   {
     "Name": "YuKitsune/vatsys-fullscreen-plugin",
-    "DllName": "FullscreenPlugin.dll"
+    "DllName": "FullscreenPlugin.dll",
+    "Remove": "false"
   },
   {
     "Name": "alphadelta332/dti-window",
-    "DllName": "dti-window.dll"
+    "DllName": "dti-window.dll",
+    "Remove": "false"
   },
   {
     "Name": "hedgehog-aviation/RemoteVSCSPlugin",
-    "DllName": "RemoteVSCSPlugin.dll"
+    "DllName": "RemoteVSCSPlugin.dll",
+    "Remove": "false"
   },
   {
     "Name": "badvectors/EventsPlugin",
-    "DllName": "EventsPlugin.dll"
+    "DllName": "EventsPlugin.dll",
+    "Remove": "false"
   },
   {
     "Name": "vatACARS/vatsys-plugin",
-    "DllName": "vatacars.dll"
+    "DllName": "vatacars.dll",
+    "Remove": "false"
   },
   {
     "Name": "maxrumsey/OzStrips",
-    "DllName": "GUI.dll"
+    "DllName": "GUI.dll",
+    "Remove": "false"
   }
 ]
