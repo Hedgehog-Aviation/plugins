@@ -50,6 +50,15 @@
     "Remove": "false"
   },
   {
+    "Name": "RealLeviticus/vatSysWindowManager"
+    "DllName": "VatSysWindowManager.dll"
+    "Remove": "false"
+  },
+  {
+    "Name": "RealLeviticus/vatsys-mumble-reconnect"
+    "DllName": "MumbleReconnect.dll"
+    "Remove": "true"
+  {
     "Name": "vatACARS/vatsys-plugin",
     "DllName": "vatacars.dll",
     "Remove": "false"
