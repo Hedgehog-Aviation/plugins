@@ -59,6 +59,10 @@
     "DllName": "MumbleReconnect.dll"
     "Remove": "true"
   {
+    "Name": "hedgehog-aviation/lazyatc",
+    "DllName": "LazyATCPlugin.dll"
+  },
+  {
     "Name": "vatACARS/vatsys-plugin",
     "DllName": "vatacars.dll",
     "Remove": "false"
